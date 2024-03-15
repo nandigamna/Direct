@@ -1,0 +1,29 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    /* background-color: rgb(160, 158, 160); */
+    background-color: rgb(207, 204, 207);
+}
+
+#newscontent-img:hover {
+    transform: scale(1.1);
+}
+
+#mainbody:hover {
+    transform: scale(1.1);
+}
+
+#newscontent-img {
+    height: 180px;
+}
+
+.newscontent-header{
+    color: red;
+
+}
+#newscontent-anc{
+    margin-left: 55px;
+}

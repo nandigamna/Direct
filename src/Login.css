@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#Login-submit
+{
+    background-color: white;
+    color:red;
+    border: 2px solid white;
+}
+#Login-submit:hover{
+    background-color: orangered;
+    color: white;
+    transform: scale(1.1);
+}
+#Login-submit:active{
+    background-color: green;
+    transform: scale(1.2);
+}
+
+@media screen and (max-width:760px) {
+    #login-container{
+        
+        background-color: blue;
+       
+    }
+}
+
